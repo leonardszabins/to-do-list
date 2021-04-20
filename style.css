@@ -5,40 +5,40 @@ h1 {
     display: flex;
     justify-content: center;
     font-size: 40px;
+    color:khaki;
+    background-color: deeppink;
+    margin: 0%;
 }
 
-
-
-#jaunsdarbs {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 250px;
-    height: 50px;
-    font-size: 25px;
-
-}
 
 input#darāmais {
-    height: 30px;
+    height: 50px;
     width: 200px;
     font-size: 20px;
     border: solid 2px black;
+    position: relative;
+    top: 60px;
+    left: 500px;
 }
 
 input#termiņš {
-    height: 30px;
+    height: 50px;
     width: 200px;
     font-size: 20px;
     border: solid 2px black;
+    position: relative;
+    top: 60px;
+    left: 500px;
 }
 
-#pievienotdarbu {
+#pievienodarāmo {
     font-size: 20px;
-    height: 30px;
+    height: 50px;
     width: 150px;
     border: solid 2px black;
-    border-radius: 15px;
+    position: relative;
+    top: 60px;
+    left: 500px; 
 }
 
 
