@@ -18,7 +18,7 @@ input#darāmais {
     border: solid 2px black;
     position: relative;
     top: 60px;
-    left: 500px;
+    left: 450px;
 }
 
 input#termiņš {
@@ -28,18 +28,15 @@ input#termiņš {
     border: solid 2px black;
     position: relative;
     top: 60px;
-    left: 500px;
+    left: 450px;
 }
 
-#pievienodarāmo {
-    font-size: 20px;
-    height: 50px;
-    width: 150px;
-    border: solid 2px black;
-    position: relative;
-    top: 60px;
-    left: 500px; 
+#poga {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 
 
 
